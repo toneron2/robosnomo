@@ -4,6 +4,11 @@
 
 Merging 70s mechanical engineering with modern AI technology.
 
+**Status: Architecture documented, one of eight hardware components acquired, nothing built.**
+[Hardware Status](#hardware-status) and [Timeline](#timeline) below carry the detail.
+
+A standalone project on this account, separate from the governance architecture.
+
 ---
 
 ## Overview
