@@ -3,18 +3,16 @@
 
 **Role**: This CLAUDE.md file serves as the **Project Manager (PM) level** - for high-level coordination, cross-cutting concerns, and navigation between sub-projects.
 
-**Project Root**: `/storage/emulated/0/Documents/projects/robosnomo/`
-
 ---
 
 ## Project Overview
 
-**Mission**: Convert a vintage 1976 Polaris Colt into a fully autonomous, self-driving vehicle, merging 70s mechanical engineering with modern AI technology.
+**Mission**: Convert a 1976 Polaris Colt into an autonomous vehicle.
 
 **Codename**: Project RoboSnomo
-**Architecture**: Tesla-inspired 3-layer autonomous vehicle system at hobbyist-plus level
+**Architecture**: three layers (perception, engine control, actuation) on one CAN bus
 **Budget**: ~$3,981 for complete system
-**Timeline**: Winter 2025 → Fall 2025 (hardware → field testing)
+**Timeline**: none; phases in README.md
 
 ---
 
@@ -383,7 +381,7 @@ robosnomo/
 
 ## Notes for Collaboration
 
-- This is a **hobby-plus project** - take safety seriously
+- Safety rules apply to every test
 - **Document everything** (photos, schematics, code comments)
 - **Test incrementally** - never skip validation steps
 - **Keep backups** of all configurations
