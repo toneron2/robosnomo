@@ -278,7 +278,7 @@ robosnomo/
 ├── .gitignore              # Large files, build artifacts, API keys
 ├── .gitattributes          # Git LFS for models, datasets >100MB
 ├── README.md               # Public-facing project overview (to be created)
-├── LICENSE                 # Open-source license (TBD)
+├── LICENSE                 # MIT
 ├── CLAUDE.md               # This PM-level file (project context)
 │
 ├── website/                # Static site (Cloudflare Pages)
@@ -313,7 +313,7 @@ robosnomo/
 - [ ] Add .gitignore (Python, C++, JetPack, TunerStudio artifacts)
 - [ ] Initialize Git LFS
 - [ ] Create README.md (public-facing overview)
-- [ ] Add LICENSE file
+- [x] Add LICENSE file
 - [ ] Push initial structure
 - [ ] Set up GitHub Issues for task tracking
 

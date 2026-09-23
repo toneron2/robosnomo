@@ -9,7 +9,7 @@ as three layers on one CAN bus.**
 | **Repository** | Specifications only: a `CLAUDE.md` per subsystem, two research documents (vision, 1,300 lines; actuators, 1,600 lines). No code yet |
 | **Budget** | about $3,981 estimated |
 | **Environment** | −40 °C operation, IP66 or better |
-| **Licence** | none declared |
+| **Licence** | MIT |
 
 A standalone project on this account, separate from the governance architecture.
 
